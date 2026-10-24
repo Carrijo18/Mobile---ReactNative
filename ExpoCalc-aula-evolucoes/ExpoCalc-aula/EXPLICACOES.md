@@ -1,6 +1,6 @@
 # Explicações das evoluções: ExpoCalc
 
-Atividade individual · Fatec ADS · Desenvolvimento de dispositivos móveis
+Vinicius carrijo e Moisés Kennedy · Fatec ADS · Desenvolvimento de dispositivos móveis
 
 Arquivos que alterei: `src/storage/historico.js`, `src/screens/HistoricoScreen.js` e `src/screens/HomeScreen.js`. O resto do projeto ficou como estava.
 
